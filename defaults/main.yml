@@ -110,3 +110,5 @@ samba_use_printers: False
 samba_printer_type: cups
 samba_cups_server: 'localhost:631'
 
+# Define if samba 
+samba_from_os: True
